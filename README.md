@@ -2,9 +2,9 @@
 
 > 如果要拉取代码的话，记得加入 node_modules
 > 以及
-> npm i boostrap
-> npm i react-router-dom
-> npm i redux react-redux @reduxjs/toolkit
+> * npm i boostrap
+> * npm i react-router-dom
+> * npm i redux react-redux @reduxjs/toolkit
 
 ## 总览
 
