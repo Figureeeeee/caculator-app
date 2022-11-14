@@ -1,5 +1,11 @@
 # Caculator
 
+> 如果要拉取代码的话，记得加入 node_modules
+> 以及
+> npm i boostrap
+> npm i react-router-dom
+> npm i redux react-redux @reduxjs/toolkit
+
 ## 总览
 
 - 基于 React 框架实现的一个网页版计算器
